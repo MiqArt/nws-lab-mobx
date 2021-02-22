@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nws-mobx/static/css/main.4fe0efe7.chunk.css",
-    "main.js": "/nws-mobx/static/js/main.bc05f20f.chunk.js",
-    "main.js.map": "/nws-mobx/static/js/main.bc05f20f.chunk.js.map",
+    "main.js": "/nws-mobx/static/js/main.0881d334.chunk.js",
+    "main.js.map": "/nws-mobx/static/js/main.0881d334.chunk.js.map",
     "runtime-main.js": "/nws-mobx/static/js/runtime-main.7c6b19c0.js",
     "runtime-main.js.map": "/nws-mobx/static/js/runtime-main.7c6b19c0.js.map",
     "static/js/2.a4cdf1c1.chunk.js": "/nws-mobx/static/js/2.a4cdf1c1.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7c6b19c0.js",
     "static/js/2.a4cdf1c1.chunk.js",
     "static/css/main.4fe0efe7.chunk.css",
-    "static/js/main.bc05f20f.chunk.js"
+    "static/js/main.0881d334.chunk.js"
   ]
 }
