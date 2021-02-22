@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nws-mobx/static/css/main.4fe0efe7.chunk.css",
-    "main.js": "/nws-mobx/static/js/main.567e9775.chunk.js",
-    "main.js.map": "/nws-mobx/static/js/main.567e9775.chunk.js.map",
+    "main.js": "/nws-mobx/static/js/main.bc05f20f.chunk.js",
+    "main.js.map": "/nws-mobx/static/js/main.bc05f20f.chunk.js.map",
     "runtime-main.js": "/nws-mobx/static/js/runtime-main.7c6b19c0.js",
     "runtime-main.js.map": "/nws-mobx/static/js/runtime-main.7c6b19c0.js.map",
-    "static/js/2.d373978a.chunk.js": "/nws-mobx/static/js/2.d373978a.chunk.js",
-    "static/js/2.d373978a.chunk.js.map": "/nws-mobx/static/js/2.d373978a.chunk.js.map",
+    "static/js/2.a4cdf1c1.chunk.js": "/nws-mobx/static/js/2.a4cdf1c1.chunk.js",
+    "static/js/2.a4cdf1c1.chunk.js.map": "/nws-mobx/static/js/2.a4cdf1c1.chunk.js.map",
     "index.html": "/nws-mobx/index.html",
     "static/css/main.4fe0efe7.chunk.css.map": "/nws-mobx/static/css/main.4fe0efe7.chunk.css.map",
-    "static/js/2.d373978a.chunk.js.LICENSE.txt": "/nws-mobx/static/js/2.d373978a.chunk.js.LICENSE.txt",
+    "static/js/2.a4cdf1c1.chunk.js.LICENSE.txt": "/nws-mobx/static/js/2.a4cdf1c1.chunk.js.LICENSE.txt",
     "static/media/customer.103d3faf.svg": "/nws-mobx/static/media/customer.103d3faf.svg",
     "static/media/dashboard.7aa0f253.svg": "/nws-mobx/static/media/dashboard.7aa0f253.svg",
     "static/media/play.1038f670.svg": "/nws-mobx/static/media/play.1038f670.svg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c6b19c0.js",
-    "static/js/2.d373978a.chunk.js",
+    "static/js/2.a4cdf1c1.chunk.js",
     "static/css/main.4fe0efe7.chunk.css",
-    "static/js/main.567e9775.chunk.js"
+    "static/js/main.bc05f20f.chunk.js"
   ]
 }
