@@ -97,7 +97,7 @@ const FiltersBtn = styled.button`
       margin: 0 auto;
       background-color: #6749A5;
       @media (max-width: 420px) {
-        bottom: -13px;
+        bottom: -8px;
       };
     };
   };
