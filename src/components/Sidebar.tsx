@@ -41,6 +41,46 @@ const SidebarContainer = styled.div`
   height: 100%;
   padding-top: 92px;
   background-color: #FFE4D6;
+  @media only screen and (min-device-width: 480px) 
+  and (max-device-width: 568px) 
+  and (orientation: landscape) {
+    padding-top: 35px;
+    & a {
+      margin: 20px 0;
+    };
+  }
+  @media only screen and (min-device-width: 569px) 
+  and (max-device-width: 667px) 
+  and (orientation: landscape) {
+    padding-top: 50px;
+    & a {
+      margin: 25px 0;
+    };
+  }
+  @media only screen and (min-device-width: 668px) 
+  and (max-device-width: 736px) 
+  and (orientation: landscape) {
+    padding-top: 55px;
+    & a {
+      margin: 30px 0;
+    };
+  }
+  @media only screen and (min-device-width: 737px) 
+  and (max-device-width: 812px) 
+  and (orientation: landscape) {
+    padding-top: 34px;
+    & a {
+      margin: 30px 0;
+    };
+  }
+  @media only screen and (min-device-width: 813px) 
+  and (max-device-width: 926px) 
+  and (orientation: landscape) {
+    padding-top: 32px;
+    & a {
+      margin: 30px 0;
+    };
+  }
 `
 const SidebarLink = styled.a`
   position: relative;

@@ -38,4 +38,24 @@ const CoursesListWrapper = styled.div`
   @media (max-width: 420px) {
     margin-top: 54px;
   };
+  @media only screen and (min-device-width: 480px) 
+  and (max-device-width: 568px) 
+  and (orientation: landscape) {
+    height: 48%;
+  }
+  @media only screen and (min-device-width: 569px) 
+  and (max-device-width: 667px) 
+  and (orientation: landscape) {
+    height: 55%;
+  }
+  @media only screen and (min-device-width: 668px) 
+  and (max-device-width: 812px) 
+  and (orientation: landscape) {
+    height: 59%;
+  }
+  @media only screen and (min-device-width: 813px) 
+  and (max-device-width: 926px) 
+  and (orientation: landscape) {
+    height: 64%;
+  }
 `
