@@ -36,6 +36,6 @@ const CoursesListWrapper = styled.div`
     height: 79%;
   }
   @media (max-width: 420px) {
-    margin-top: 44px;
+    margin-top: 54px;
   };
 `

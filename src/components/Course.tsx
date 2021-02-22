@@ -40,7 +40,7 @@ const CourseWrapper = styled.div<IStyled>`
   position: relative;
   width: 100%;
   margin-bottom: 5%;
-  background-image: url(${({imageSrc}) => imageSrc});
+  background-image: url(${({imageSrc}) => process.env.PUBLIC_URL + '/' + imageSrc});
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
